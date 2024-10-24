@@ -54,7 +54,7 @@ const About = () => {
 
         Além disso, tenho experiência com WordPress, onde desenvolvi e customizei temas e plugins para atender às necessidades específicas dos clientes. A utilização de TailwindCSS tem sido essencial para estilizar rapidamente as interfaces, mantendo um código limpo e organizado.
 
-        Recentemente, explorei Three.js, o que me permitiu adicionar elementos 3D interativos às minhas aplicações, elevando a experiência do usuário a um novo nível.
+        Com um background em softwares de CAO DAO como Inventor, Fusion 360, StechUp, Blender, recentemente explorei Three.js, o que me permitiu adicionar elementos 3D interativos às minhas aplicações, elevando a experiência do usuário a um novo nível.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
