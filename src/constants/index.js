@@ -51,6 +51,10 @@ import {
       icon: mobile,
     },
     {
+      title: "Three.js Developer",
+      icon: threejs,
+    },
+    {
       title: "Wordpress",
       icon: backend,
     },
