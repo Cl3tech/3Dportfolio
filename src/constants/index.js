@@ -58,6 +58,18 @@ import {
       title: "3D Designer",
       icon: creator,
     },
+    {
+      title: "SAAS Developer",
+      icon: redux,
+    },
+    {
+      title: "UI/UX Designer",
+      icon: mongodb,
+    },
+    {
+      title: "DevOps & Cloud",
+      icon: docker,
+    },
   ];
   
   const technologies = [
@@ -105,6 +117,32 @@ import {
   ];
   
   const experiences = [
+    {
+      title: "React Native Developer",
+      company_name: "PlantSmarter",
+      icon: reactjs,
+      iconBg: "#E6DEDD",
+      
+      points: [
+        "Iniciação do projeto configurando o ambiente de desenvolvimento e criando a estrutura básica da aplicação com Expo.",
+        "Desenvolvimento de componentes reutilizáveis para diferentes seções da mobileapp, garantindo uma interface intuitiva e responsiva.",
+        "Integreção de APIs externas para obter dados de plantas, proporcionando aos usuários informações detalhadas e atualizadas.",
+        "Integração de ia para fornecer recomendações personalizadas de cuidados com as plantas, melhorando a experiência do usuário.",
+        "Implementação de testes e monitoramento contínuos para assegurar a estabilidade e a performance da aplicação, além de realizar atualizações regulares para adicionar novas funcionalidades.",
+      ],
+    },
+    {
+      title: "React.js Developer",
+      company_name: "DJ Ludkin",
+      icon: reactjs,
+      iconBg: "#E6DEDD",
+      
+      points: [
+        "Iniciação do projeto configurando o ambiente de desenvolvimento e criando a estrutura básica da aplicação com Vite.",
+        "Desenvolvimento de componentes reutilizáveis para diferentes seções da web app, como leitor de musica e playlist.",
+        "Implementação de testes e monitoramento contínuos para assegurar a estabilidade e a performance da aplicação, além de realizar atualizações regulares para adicionar novas funcionalidades.",
+      ],
+    },
     {
       title: "React.js Developer",
       company_name: "Ginasio VF",
